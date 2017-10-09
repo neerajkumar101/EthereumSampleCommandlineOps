@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "async": "^2.5.0",
+        "fs": "0.0.1-security",
+        "mocha": "^4.0.0",
+        "node-couchdb": "^1.2.0",
+        "solc": "^0.4.17",
+        "web3": "^0.18.4"
+    }
+}

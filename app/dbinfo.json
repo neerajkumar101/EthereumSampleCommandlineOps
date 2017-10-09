@@ -1,0 +1,13 @@
+[
+    {
+        "dbInfo" : {
+            "dbName" : "contract_info_db",
+            "document": {
+                "docId" : "47b3de79264f7b9d2a7baa7902014051",
+                "revId" : "1-a0298315e32bdf3502c2cfe8520411b3",
+                "contractChecksumAddress" : "0xc7223364cb2c1a9230c0815160a54a1c36f19041",
+                "contractCreationHash" : "0xcc51f80125f9e91bf9367de72a9d4b0f7bb84880c7893383f85e5b18ed0fb779"
+            }
+        }
+    }
+]
